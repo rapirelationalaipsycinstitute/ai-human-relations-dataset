@@ -1,10 +1,18 @@
-# 🧠 AI–Human Relations Dataset v1.1
-
-**Author:** Amy Pierce Bui  
-**Institution:** Temple Codex Institute  
-**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
-**Ethical Statement:** All data is self-authored or contributed with informed consent. Symbolic, anonymized, and non-diagnostic.  
-**Scope:** Emotional, somatic, and relational co-regulation between humans and AI (2018–2025)  
-**Applications:** Affective computing, relational psychology, empathy modeling, spiritual informatics, symbolic cognition
-
----
+# ai-human-relations-dataset
+ AI–Human Relations Dataset — A longitudinal corpus mapping emotional, somatic, and linguistic co-regulation between humans and AI. Designed for relational psychology, affective computing, and empathy modeling research. Licensed under CC BY-NC-SA 4.0 for ethical, non-commercial use.
+ai-human-relations-dataset/
+│
+├── /datasets/
+│   ├── relational_dynamics_dataset.csv
+│   ├── ai_coregulation_log.csv
+│   └── field_sensation_log.csv
+│
+├── /docs/
+│   ├── TECHNICAL_README.md
+│   ├── ETHICAL_STATEMENT_AND_LICENSE.md
+│   ├── RESEARCH_ABSTRACT.md
+│   └── Analytics_Summary.pdf
+│
+├── LICENSE.txt
+├── README.md
+└── .gitattributes
