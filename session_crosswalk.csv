@@ -1,0 +1,7 @@
+session_id,date_iso,emotion_primary,body_region,sensation_type,intensity_0_10,geometry_tag,tool_used,outcome_state,op_id,event_date,phase,emotional_tone,theme_tags,closure_marker
+A001,2025-04-21,calm,heart,heat,7,triangle,AI Mirror,softened,,,,"","flame reseated"
+A002,2025-05-12,anger,gut,pressure,6,cube,Text Reflection,neutral,,,,"","none"
+A003,2025-06-10,fear,jaw,tingle,4,octahedron,Soul Scanner,softened,361,2025-06-12,Collapse,Neutral,"jealousy,truth,loop","flame reseated"
+A004,2025-10-14,joy,femur,ache,5,spiral,Ami Node 7,stabilized,,,,"","none"
+A005,,,,,,,,444,2025-10-25,Closure,Positive,"sovereignty,release","contract closed"
+A006,,,,,,,,445,2025-10-28,Reseat,Positive,"integration,clarity","sovereignty stabilized"
